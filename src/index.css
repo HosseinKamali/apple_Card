@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.asasa{
+    background-color: ;
+    cursor: pointer;
+  box-shadow: 1px 1px 1px 1px #cacacb;
+  text-shadow: 1px 1px 1px 1px #cacacb;
+    transform: rotate3d(10);
+    transform: translateX(10);
+  
+  
+}
